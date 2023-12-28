@@ -1,0 +1,15 @@
+<svg width="254" height="262" viewBox="0 0 254 262" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="254" height="262" fill="#F2F2F2"/>
+<g id="Contact" clip-path="url(#clip0_0_713)">
+<rect width="1440" height="1233" transform="translate(-1186 -123)" fill="white"/>
+<g id="Deco">
+<path id="Rectangle" opacity="0.102307" fill-rule="evenodd" clip-rule="evenodd" d="M145.546 254.056C133.236 265.128 114.284 264.135 103.199 251.836L7.86275 146.063C-3.23797 133.747 -2.24297 114.761 10.0843 103.673L115.954 8.44437C128.264 -2.62795 147.216 -1.6347 158.301 10.6637L253.637 116.437C264.738 128.753 263.743 147.739 251.416 158.827L145.546 254.056Z" fill="#03A9F4"/>
+<path id="Rectangle_2" opacity="0.0535017" fill-rule="evenodd" clip-rule="evenodd" d="M17.3598 178.009C-7.25947 200.153 -45.1642 198.167 -67.3338 173.57L-257.671 -37.6058C-279.873 -62.2379 -277.883 -100.209 -253.228 -122.385L-41.8595 -312.509C-17.2403 -334.653 20.6644 -332.667 42.8341 -308.07L233.172 -96.8942C255.373 -72.2621 253.383 -34.2912 228.729 -12.1147L17.3598 178.009Z" fill="#2196F3"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_713">
+<rect width="1440" height="1233" fill="white" transform="translate(-1186 -123)"/>
+</clipPath>
+</defs>
+</svg>
